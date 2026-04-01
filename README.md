@@ -7,7 +7,7 @@ This repository presents a project on the use of **fractional-order optimal cont
 
 Classical epidemic models (such as SIR-type models) are typically based on **integer-order differential equations**, which assume that the rate of change of a system depends only on its current state.
 
-However, real-world phenomena—especially in epidemiology—often exhibit:
+However, real-world phenomena, especially in epidemiology, often exhibit:
 - **Memory effects**
 - **Hereditary behavior**
 - **Non-local dynamics**
