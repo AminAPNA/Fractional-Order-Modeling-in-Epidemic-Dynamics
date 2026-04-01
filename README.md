@@ -80,3 +80,24 @@ This repository includes:
 - Numerical schemes for simulation
 - Experiments demonstrating control strategies
 
+
+##  Further Reading
+
+For a deeper understanding of fractional derivatives and their applications in epidemic modeling, the reader is encouraged to consult the following references:
+
+-  [Paper 1 Title](https://github.com/AminAPNA/Fractional-Order-Modeling-in-Epidemic-Dynamics/blob/main/Original_Paper.pdf)  
+-  [Paper 2 Title](https://github.com/AminAPNA/Fractional-Order-Modeling-in-Epidemic-Dynamics/blob/main/A-Faghih.pdf)
+-  [Paper 2 Title](https://github.com/AminAPNA/Fractional-Order-Modeling-in-Epidemic-Dynamics/blob/main/A.%20Faghih.pdf)  
+
+These works provide detailed theoretical foundations and applications of **fractional-order models** in real-world systems.
+
+
+##  Code Availability
+
+The numerical simulation codes for several **fractional dynamical models of infectious diseases** are available here:
+
+-  [Mathematica / Implementation Repository](https://github.com/AminAPNA/Fractional-Order-Modeling-in-Epidemic-Dynamics/tree/main/mathematica_codes)
+
+
+
+
