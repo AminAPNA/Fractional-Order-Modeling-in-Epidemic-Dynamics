@@ -80,12 +80,3 @@ This repository includes:
 - Numerical schemes for simulation
 - Experiments demonstrating control strategies
 
-
-##  Key Takeaways
-
-- Fractional derivatives provide a **powerful extension** of classical modeling tools
-- They capture **memory and non-local effects** inherent in real-world systems
-- In epidemiology, they lead to **more accurate and realistic models**
-- They play a crucial role in designing **effective disease control strategies**
-
----
